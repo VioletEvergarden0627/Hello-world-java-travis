@@ -37,6 +37,6 @@ jobs:
 notifications:
   email:
     recipients:
-      - example@gmail.com
+      - EricLim0208@1utar.my
     on_success: always
     on_failure: always
